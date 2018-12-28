@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\husai\\AndroidStudioProjects\\colorproject\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\husai\\AndroidStudioProjects\\colorproject\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\husai\\AndroidStudioProjects\\colorproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_default_image.png.flat",
+        "source": "C:\\Users\\husai\\AndroidStudioProjects\\colorproject\\app\\src\\main\\res\\drawable-xhdpi\\default_image.png"
+    },
+    {
+        "merged": "C:\\Users\\husai\\AndroidStudioProjects\\colorproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_drop_down_black.png.flat",
+        "source": "C:\\Users\\husai\\AndroidStudioProjects\\colorproject\\app\\src\\main\\res\\drawable-xhdpi\\ic_arrow_drop_down_black.png"
+    },
+    {
+        "merged": "C:\\Users\\husai\\AndroidStudioProjects\\colorproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\husai\\AndroidStudioProjects\\colorproject\\app\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\husai\\AndroidStudioProjects\\colorproject\\app\\build\\intermediates\\res\\merged\\debug\\layout_score.xml.flat",
+        "source": "C:\\Users\\husai\\AndroidStudioProjects\\colorproject\\app\\src\\main\\res\\layout\\score.xml"
+    }
+]
